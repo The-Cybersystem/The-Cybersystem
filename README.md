@@ -1,4 +1,4 @@
-- 👋 Hi, we are @The-Cybersystem!
+- 👋 Hi, we are the Cyber System and the Foundation!
 - 👀 We're interested in cybersecurity, programming, and other things. Contact us on Discord for more information.
 - 🌱 We're learning about back-end development and focusing on exploring Discord bots.
 - 💞️ We're looking to collaborate on a Discord bot for our community's Discord server.
